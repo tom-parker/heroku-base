@@ -1,4 +1,4 @@
-backbone-app
+Heroku-base
 ============
 
-Super simple mobile app using backbone, require and the Guardian Content API
+Base project template for heroku
